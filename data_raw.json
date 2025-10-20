@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price_usd": 25.5,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Headphones",
+    "category": "Audio",
+    "price_usd": 55.0,
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch",
+    "category": "Wearable",
+    "price_usd": 120.99,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price_usd": 80.25,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "USB-C Hub",
+    "category": "Accessories",
+    "price_usd": 45.75,
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "name": "4K Monitor",
+    "category": "Electronics",
+    "price_usd": 320.0,
+    "rating": 4.8
+  },
+  {
+    "id": 7,
+    "name": "Gaming Laptop",
+    "category": "Computers",
+    "price_usd": 1299.99,
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "name": "Portable SSD 1TB",
+    "category": "Storage",
+    "price_usd": 139.5,
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "name": "Smart Speaker",
+    "category": "Audio",
+    "price_usd": 89.99,
+    "rating": 4.2
+  },
+  {
+    "id": 10,
+    "name": "Noise Cancelling Earbuds",
+    "category": "Audio",
+    "price_usd": 149.0,
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "name": "Action Camera",
+    "category": "Photography",
+    "price_usd": 210.99,
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "name": "Tripod Stand",
+    "category": "Photography",
+    "price_usd": 39.99,
+    "rating": 4.1
+  },
+  {
+    "id": 13,
+    "name": "LED Desk Lamp",
+    "category": "Home Office",
+    "price_usd": 25.99,
+    "rating": 4.3
+  },
+  {
+    "id": 14,
+    "name": "Wireless Charger",
+    "category": "Accessories",
+    "price_usd": 18.75,
+    "rating": 4.2
+  },
+  {
+    "id": 15,
+    "name": "Smartphone Gimbal",
+    "category": "Photography",
+    "price_usd": 99.5,
+    "rating": 4.4
+  },
+  {
+    "id": 16,
+    "name": "Laptop Stand",
+    "category": "Home Office",
+    "price_usd": 34.5,
+    "rating": 4.3
+  },
+  {
+    "id": 17,
+    "name": "Wireless Router",
+    "category": "Networking",
+    "price_usd": 89.0,
+    "rating": 4.5
+  },
+  {
+    "id": 18,
+    "name": "External Hard Drive 2TB",
+    "category": "Storage",
+    "price_usd": 79.99,
+    "rating": 4.6
+  },
+  {
+    "id": 19,
+    "name": "Webcam HD 1080p",
+    "category": "Electronics",
+    "price_usd": 49.99,
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "name": "Ergonomic Office Chair",
+    "category": "Home Office",
+    "price_usd": 229.0,
+    "rating": 4.8
+  }
+]

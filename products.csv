@@ -1,0 +1,21 @@
+id,item,category,price_usd,price_inr,tax_inr,rating
+1,Wireless Mouse,Electronics,25.5,2245.02,404.1,4.5
+2,Bluetooth Headphones,Audio,55.0,4842.2,871.6,4.3
+3,Smartwatch,Wearable,120.99,10651.96,1917.35,4.7
+4,Mechanical Keyboard,Accessories,80.25,7065.21,1271.74,4.6
+5,USB-C Hub,Accessories,45.75,4027.83,725.01,4.4
+6,4K Monitor,Electronics,320.0,28172.8,5071.1,4.8
+7,Gaming Laptop,Computers,1299.99,114451.12,20601.2,4.9
+8,Portable SSD 1TB,Storage,139.5,12281.58,2210.68,4.7
+9,Smart Speaker,Audio,89.99,7922.72,1426.09,4.2
+10,Noise Cancelling Earbuds,Audio,149.0,13117.96,2361.23,4.6
+11,Action Camera,Photography,210.99,18575.56,3343.6,4.5
+12,Tripod Stand,Photography,39.99,3520.72,633.73,4.1
+13,LED Desk Lamp,Home Office,25.99,2288.16,411.87,4.3
+14,Wireless Charger,Accessories,18.75,1650.75,297.14,4.2
+15,Smartphone Gimbal,Photography,99.5,8759.98,1576.8,4.4
+16,Laptop Stand,Home Office,34.5,3037.38,546.73,4.3
+17,Wireless Router,Networking,89.0,7835.56,1410.4,4.5
+18,External Hard Drive 2TB,Storage,79.99,7042.32,1267.62,4.6
+19,Webcam HD 1080p,Electronics,49.99,4401.12,792.2,4.4
+20,Ergonomic Office Chair,Home Office,229.0,20161.16,3629.01,4.8
