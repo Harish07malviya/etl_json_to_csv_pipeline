@@ -1,4 +1,4 @@
-# 🧩 JSON → Transform → CSV Pipeline
+# 🧩 JSON → Transform → CSV ETL Pipeline
 
 ### 🚀 Overview
 A lightweight ETL mini-project that demonstrates how to:
